@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**JessicaEmberlyOfficial/JessicaEmberlyOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JessicaEmberlyOfficial/JessicaEmberlyOfficial** is a ✨ _special_ ✨ repository because it is about me, Jessica!
 
 Here are some ideas to get you started:
 

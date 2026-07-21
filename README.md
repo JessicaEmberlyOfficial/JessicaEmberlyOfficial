@@ -2,7 +2,7 @@
 
 **JessicaEmberlyOfficial/JessicaEmberlyOfficial** is a ✨ _special_ ✨ repository because it is about me, Jessica!
 
-Here are some ideas to get you started:
+Here are some things about me, and my projects.
 
 - 🔭 I’m currently working on TOD.
 - 🌱 I’m currently learning Python.

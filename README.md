@@ -4,11 +4,11 @@
 
 Here are some things about me, and my projects.
 
-- 🔭 I’m currently working on TOD.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on TOD.
-- 🤔 I’m looking for help with TOD.
-- 💬 Ask me about 3432.
+- 🔭 I’m currently working on TOD & ID.
+- 🌱 I’m currently learning Python, and (*.GD).
+- 👯 I’m looking to collaborate on TOD & ID.
+- 🤔 I’m looking for help with TOD & ID.
+- 💬 Ask me about 3432 (old).
 - 📫 How to reach me: [apitafiles@gmail.com](mailto:apitafilms@gmail.com)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I got into technology at a young age.

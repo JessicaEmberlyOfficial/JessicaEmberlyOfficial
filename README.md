@@ -5,7 +5,7 @@
 Here are some things about me, and my projects.
 
 - 🔭 I’m currently working on TOD & IR.
-- 🌱 I’m currently learning Python, and (*.GD).
+- 🌱 I’m currently learning Python, (*.GD), and HTML.
 - 👯 I’m looking to collaborate on TOD & IR.
 - 🤔 I’m looking for help with TOD & IR.
 - 💬 Ask me about 3432 (old).
